@@ -1,1 +1,3 @@
 This is some text in simple file to test watching notifications.
+
+How now?
