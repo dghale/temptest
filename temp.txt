@@ -1,4 +1,5 @@
 This is some text in simple file to test watching notifications.
+z to a
 
 How now?
 
