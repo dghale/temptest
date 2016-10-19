@@ -9,6 +9,7 @@
    limitations under the License.
 
 .. Amazon SWF-specific includes
+   ----------------------------
 
 .. |rbflow-default-domain| replace:: ``FlowDefault``
 .. |rbflow-samples| replace:: awslabs/aws-flow-ruby-samples
@@ -17,6 +18,7 @@
 .. |console-swf| replace:: Amazon SWF Dashboard
 
 .. Some useful links
+   -----------------
 
 .. _awsflow: http://aws.amazon.com/swf/details/flow/
 .. _rbflow: http://github.com/aws/aws-flow-ruby
@@ -25,5 +27,4 @@
 .. _console-swf: http://console.aws.amazon.com/swf
 .. _runner-cmd: cmd-aws-flow-ruby.html
 .. _utility-cmd: cmd-aws-flow-utils.html
-
 .. _sdk-js-swf-ref: http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SWF.html

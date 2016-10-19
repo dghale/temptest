@@ -9,8 +9,10 @@
    limitations under the License.
 
 .. Amazon EC2-specific includes
+   ============================
 
 .. links to user guide topics
+   --------------------------
 
 .. |ec2-ug-using-tags| replace:: Tagging Your Amazon EC2 Resources
 .. _ec2-ug-using-tags: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html

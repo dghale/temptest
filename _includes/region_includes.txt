@@ -9,6 +9,7 @@
    limitations under the License.
 
 .. REGIONS & ENDPOINTS
+   ===================
 
 .. |region_api_default| replace:: us-east-1
 .. |region_console_default| replace:: us-west-2
