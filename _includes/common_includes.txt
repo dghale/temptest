@@ -15,7 +15,7 @@
 
    Some general service information (such as service names) is in this file.
 
-   For *links* to these, use the service_links.txt file.
+   For *links* to these, use the service_links.txt file. 
 
    Service-specific information (links to specific guide pages, for example), see the
    SVC_includes.txt file (replace *SVC* with the service acronym). 
