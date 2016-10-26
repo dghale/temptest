@@ -19,12 +19,13 @@
 
    Service-specific information (links to specific guide pages, for example), see the
    SVC_includes.txt file (replace *SVC* with the service acronym).
-   Some change. touch.
+   Some change.
 
 .. Common symbols
    --------------
 .. |ndash| unicode:: U+2013
 .. |mdash| unicode:: U+2014
+.. |testy| replace:: Test Value
    :trim:
 
 
