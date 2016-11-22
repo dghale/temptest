@@ -21,7 +21,7 @@
    * Region substitutions such as |region-sdk-default| are in region_includes.txt
 
    Service-specific information (links to specific guide pages, for example), see the
-   SVC_includes.txt file (replace *SVC* with the service acronym).
+   SVC_includes.txt file (replace *SVC* with the service acronym). Test change.
 
 
 .. Common symbols
